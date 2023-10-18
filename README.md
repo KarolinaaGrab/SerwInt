@@ -1,1 +1,3 @@
 # SerwInt
+
+poświadczenia menadzer
